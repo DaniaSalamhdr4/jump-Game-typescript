@@ -1,0 +1,22 @@
+{
+  "name": "jump-game-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript implementation of the Jump Game problem.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniaSalamhdr4/jump-Game-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DaniaSalamhdr4/jump-Game-typescript/issues"
+  },
+  "homepage": "https://github.com/DaniaSalamhdr4/jump-Game-typescript#readme"
+}
